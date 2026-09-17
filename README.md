@@ -233,3 +233,13 @@ Potential future improvements include:
 * Streaming AI responses
 * Improved citation handling
 * Production
+## Screenshots
+
+### Chat Interface
+![Chat Interface](screenshots/chat-interface.png)
+
+### PDF Upload
+![PDF Upload](screenshots/pdf-upload.png)
+
+### Document Q&A
+![Document Q&A](screenshots/document-qa.png)
